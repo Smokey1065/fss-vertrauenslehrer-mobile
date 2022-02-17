@@ -1,0 +1,33 @@
+.List {
+    background: linear-gradient(
+        50deg, 
+        
+    );
+    padding: 40px;
+    color: white;
+    text-align: center;
+}
+
+img {
+    height: 60px;
+    padding-left: 260px;
+    
+}
+
+body {
+     background: linear-gradient(
+        50deg, 
+        yellow,
+        lightgreen
+    );
+    color: black;
+    background-size: 5px;
+}
+
+.info {
+    padding-top: 377px;
+}
+
+.Datum {
+    padding: 52px;
+}
